@@ -1,0 +1,13 @@
+{
+  "name": "win-vpn-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram order bot for WIN VPN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grammy": "^1.35.0"
+  }
+}
